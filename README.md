@@ -28,5 +28,11 @@ Linux系统镜像 Ubuntu系统镜像 乌班图Linux系统镜像
 ![3.jpg](imgs%2F3.jpg)
 
 
+### 扫码关注公众号 获取更多项目和编程资料
+
+关注公众号：小猿天天学习
+
+公众号ID：xzzard
 
 
+![img.png](imgs%2Fimg.png)
